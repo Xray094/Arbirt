@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on wide web projects
 - 📫 How to reach me (mohammadapply@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Even the wind has a path brother ...
+- ⚡ Fun fact: 
 
 <!---
 Arbirt/Arbirt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
